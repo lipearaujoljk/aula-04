@@ -1,0 +1,31 @@
+para insserir um objeto em uma lista:
+insert (); e 
+append();
+variavel.insert((indice, objeto)
+variavel.append(objet)dadas suas listas x e y, a sintaxe parav unir a segunda lista primeira é:
+x.extend(y)
+indicando que os objetos de y serão adcionados a x,
+para se remover objetos deuma lista.
+função remove();
+pop();
+palavra reservada del; e
+clear().
+____________________________________________________________________________________________________________
+função remove()
+variável .remove(objeto)
+__________________________
+FUNÇÃO pop()
+variavel.pop(indice)
+__________________________
+PALAVRA RESERVADA del()
+del variavel[indice]
+__________________________
+função clear()
+variavel.clear()
+______________________________________________________________________________________________________________
+A FUNÇÃO sort realiza a ordenação direta ou inverssa dos objeos de uma lista.
+sintaxe para ordenação direta
+variavel.sort()
+___________________________________________________________________________________________________________________
+sintaxe para ordenação inversa
+variavel.sort(reverse=True)
