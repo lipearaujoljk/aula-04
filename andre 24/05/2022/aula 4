@@ -1,4 +1,4 @@
-para insserir um objeto em uma lista:
+8888888para insserir um objeto em uma lista:
 insert (); e 
 append();
 variavel.insert((indice, objeto)
@@ -25,7 +25,34 @@ variavel.clear()
 ______________________________________________________________________________________________________________
 A FUNÇÃO sort realiza a ordenação direta ou inverssa dos objeos de uma lista.
 sintaxe para ordenação direta
-variavel.sort()
-___________________________________________________________________________________________________________________
-sintaxe para ordenação inversa
-variavel.sort(reverse=True)
+ ______________________________________________________________________________________________________________________
+ Sintaxe para ordenacao inverssa
+ varivel sort(reversse=true)
+ exemplo copia de uma lista
+CRIAR UMA NOVA LISTA DE UMA LISTA EXISTENTE
+FUNÇAO copy();ou
+FUNÇAO list()
+EX:novalista=ListaExistent.copy()
+EX:novaLista=list(listaExistente)
+____________________________________________________________________
+funçao para verificar quantas vezes um objeto ocorre dentro de uma lista.
+EX:variável.count(objeto)
+print(quantidade)#imprime 3
+___________________________________________________________________________________
+verificar a 1* posiçao de um objrto de uma lista
+Ex:variavel.index(objeto)
+_______________________________________________________
+INTERVALOS-funçao range
+
+A funçao range gera sequencia e define intervalo
+de valores.
+
+Um intervalo é definido por:
+um valor inicial
+um valor final; e 
+um valor de passo
+_____________________________________________________________
+SINTAXE
+
+range(inicio,fim,passo)
+________________________________________________________________
